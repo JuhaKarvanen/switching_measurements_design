@@ -25,10 +25,10 @@ Description:
 This package provides the Matlab (5.x or later) functions needed for 
 experimental designs described in
 
-	Juha Karvanen, Juha J. Vartiainen, Andrey Timofeev and Jukka
-       	Pekola, Experimental Designs for Binary Data in Switching
-        Measurements on Superconducting Josephson Junctions, 2005,
-        http://ltl.tkk.fi/PICO/optdesign/
+	J. Karvanen, J. J. Vartiainen, A. Timofeev, J. Pekola, Experimental 
+	designs for binary data in switching measurements on superconducting 
+	Josephson junctions. Journal of the Royal Statistical Society: Series C 
+	(Applied Statistics) 56 (2), 167–181, 2007.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Background:
