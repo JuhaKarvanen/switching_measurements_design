@@ -5,11 +5,10 @@ Documentation of data set switching.dat
 
 The data set is analyzed in the paper
 
-	Juha Karvanen, Juha J. Vartiainen, Andrey Timofeev and Jukka
-       	Pekola, Experimental Designs for Binary Data in Switching
-        Measurements on Superconducting Josephson Junctions, 2005,
-        http://ltl.tkk.fi/PICO/optdesign/
-
+	J. Karvanen, J. J. Vartiainen, A. Timofeev, J. Pekola, Experimental 
+	designs for binary data in switching measurements on superconducting 
+	Josephson junctions. Journal of the Royal Statistical Society: Series C 
+	(Applied Statistics) 56 (2), 167–181, 2007.
 
 The measurements were made in Low Temperature Laboratory,
 Helsinki University of Technology,  August 16, 2005.
